@@ -1,12 +1,12 @@
 body {
-    font-family: 'Droid Serif', serif;
+    font-family: 'IM Fell English', serif;
     font-size: 14px;
     color: #2f2f2f;
     background-color: #f6eccf;
 }
 header{
     margin-left: 30px;
-    font-family: 'FasterOne-Regular', serif;
+    font-family: 'IM Fell English', serif;
     font-weight: 900;
     font-size: 80px;
     text-transform: uppercase;
@@ -26,6 +26,7 @@ p {
 }
 
 .subhead {
+    font-size: 17px;
     text-transform: uppercase;
     border-bottom: 2px solid #2f2f2f;
     border-top: 2px solid #2f2f2f;
@@ -69,7 +70,7 @@ p {
 .collumn .headline {
     text-align: center;
     line-height: normal;
-    font-family: 'Playfair Display', serif;
+    font-family: 'IM Fell English', serif;
     display: block;
     margin: 0 auto;
 }
@@ -204,7 +205,7 @@ p {
 }
 
 .collumn .citation {
-    font-family: 'Playfair Display', serif;
+    font-family: 'IM Fell English', serif;
     font-size: 36px;
     line-height: 44px;
     text-align: center;
