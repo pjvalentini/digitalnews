@@ -4,7 +4,9 @@ body {
     color: #2f2f2f;
     background-color: #f6eccf;
 }
-header{
+header {
+    margin-bottom: 18px;
+    padding-top: 23px;
     margin-left: 30px;
     font-family: 'IM Fell English', serif;
     font-weight: 900;
@@ -13,6 +15,10 @@ header{
     display: inline-block;
     line-height: 72px;
     margin-bottom: 20px;
+}
+
+.headerobjectswrapper {
+    padding-bottom: 24px;
 }
 
 p {
@@ -34,6 +40,7 @@ p {
 }
 
 .weatherforcastbox {
+    float: right;
     position: relative;
     width: 12%;
     left: 10px;
@@ -116,8 +123,11 @@ p {
 }
 
 .collumn .headline.hl4 {
+    margin-bottom: 18px;
+    border-top-width: 0px;
+    padding-top: 23px;
     font-weight: 700;
-    font-size: 12px;
+    font-size: 16px;
     box-sizing: border-box;
     padding: 10px 0 10px 0;
 }
