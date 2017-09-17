@@ -238,12 +238,12 @@ p {
 }
 
 .collumn .figcaption {
-	font-style: italic;
-	font-size: 12px;
+  	font-style: italic;
+  	font-size: 12px;
 }
 
 .media {
-  filter: sepia(100%) grayscale(0) contrast(1) opacity(0.8);
-  mix-blend-mode: multiply;
-  width: 100%;
+    filter: sepia(100%) grayscale(0) contrast(1) opacity(0.8);
+    mix-blend-mode: multiply;
+    width: 100%;
 }
